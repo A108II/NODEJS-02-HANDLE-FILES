@@ -1,0 +1,2 @@
+This is a test for appending file
+Hello from Mars
